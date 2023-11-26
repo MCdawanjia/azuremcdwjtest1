@@ -1,0 +1,69 @@
+{
+    "title": "無名の主页",
+    "description": "一个默默无闻的主页",
+    "keywords": "無名,个人主页",
+    "author": "無名",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "imsyy",
+    "logo_text_2": "top",
+    "des_title": [
+        "Hello World !",
+        "一个建立于 21 世纪的小站，存活于互联网的边缘"
+    ],
+    "des_title_change": [
+        "Oops !",
+        "哎呀，这都被你发现了 ( 再点击一次可关闭 )"
+    ],
+    "github": "imsyy",
+    "qq": "1455112844",
+    "email": "zhiyunlm@qq.com",
+    "telegram": "bottom_user",
+    "twitter": "iimmsyy",
+    "weather_api": "https://www.yiketianqi.com/free/day?appid=43656176&appsecret=I42og6Lm&unescape=1",
+    "link_1": [
+        "https://zhiyun66.github.io",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://zhiyun66.github.io",
+        "fa-solid fa-cloud",
+        "网盘"
+    ],
+    "link_3": [
+        "https://cn.bing.com/search?q=%E6%99%BA%E5%8D%93%E6%98%9F%E7%BD%91",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "http://zyw.zhiyun666.xyz",
+        "fa-solid fa-compass",
+        "接口"
+    ],
+    "link_5": [
+        "https://zhiyun123.wodemo.com/entry/537061",
+        "fa-solid fa-book-bookmark",
+        "网址集"
+    ],
+    "link_6": [
+        "https://zhiyun.lanzoue.com/b000co4f",
+        "fa-solid fa-flask",
+        "实验室"
+    ],
+    "wallpaper_api": [
+        [
+            "每日一图",
+            "https://zhiyun66.github.io/mjx/index.html"
+        ],
+        [
+            "信息查询",
+            "https://zhiyun66.github.io/map/index.html"
+        ],
+        [
+            "图片水印",
+            "https://zhiyun66.github.io/tuy/"
+        ]
+    ],
+    "Copyright_year": "2023",
+    "Copyright_text": "智卓星网"
+}
